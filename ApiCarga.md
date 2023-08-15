@@ -23,7 +23,7 @@
 ## Autenticación y Autorización
 - Se implementará un sistema de autenticación basado en tokens.
 - Cada cliente recibirá un token único que se utilizará para autenticar las solicitudes a la API.
-- Los tokens serán almacenados y gestionados de forma segura en la base de datos.
+- Los tokens serán almacenados y gestionados de forma segura en la base de datos o algun servicio de AWS.
 - 
 
     Ejemplo
