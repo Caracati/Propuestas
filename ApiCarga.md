@@ -1,14 +1,12 @@
 # Propuesta Técnica para Desarrollo de API Utilizando OpenAPI en Node.js
 
 ## Resumen y necesidad
-  Este documento describe la propuesta técnica para el desarrollo de una API utilizando **Node.js** y **OpenAPI (Swagger)** que permitirá a varios clientes (por ejemplo, Adosa, Chevrolet, Ampars, entre otros) realizar operaciones relacionadas con la carga y gestión de archivos en un ***bucket de Amazon S3**. Cada cliente tendrá su propio conjunto de controladores y firmas específicas para diferentes tipos de operaciones.
+    Este documento describe la propuesta técnica para el desarrollo de una API utilizando **Node.js** y **OpenAPI (Swagger)** que permitirá a varios clientes (por ejemplo, Adosa, Chevrolet, Ampars, entre otros) realizar operaciones relacionadas con la carga y gestión de archivos en un **bucket de Amazon S3**. Cada cliente tendrá su propio conjunto de controladores y firmas específicas para diferentes tipos de operaciones.
 
 ## Objetivos
 
 - Desarrollar una API robusta y **segura** que permita a los clientes interactuar con un bucket de Amazon S3.
-
 - Utilizar **OpenAPI** para definir la estructura y documentación de la API, facilitando la comprensión y uso por parte de los desarrolladores.
-
 - Implementar un sistema de autenticación basado en tokens para asegurar la privacidad y la seguridad de los datos.
 
 ## Tecnologías Utilizadas
@@ -43,7 +41,7 @@
 - Se generará documentación automática utilizando OpenAPI (Swagger).
 - La documentación detallará las rutas disponibles, los parámetros requeridos, las respuestas posibles y ejemplos de uso.
 - ejemplo 
-- ![Alt text](image.png)
+    ![Alt text](image.png)
 
 ## Seguridad
 
