@@ -37,7 +37,7 @@
 ## Documentación
 - Se generará documentación automática utilizando OpenAPI (Swagger).
 - La documentación detallará las rutas disponibles, los parámetros requeridos, las respuestas posibles y ejemplos de uso.
-- ejemplo 
+- Ejemplo 
     - ![Alt text](image-1.png)
 
 ## Seguridad
